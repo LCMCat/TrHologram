@@ -14,7 +14,7 @@ import taboolib.module.nms.MinecraftVersion
 import taboolib.platform.BukkitPlugin
 
 /**
- * @author Arasple
+ * @author Arasplewtf
  * @date 2021/1/25 12:11
  */
 object TrHologram : Plugin() {
